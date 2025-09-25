@@ -1,4 +1,8 @@
-site_name: TALOS MoCap VR Docs
+﻿site_name: TALOS MoCap VR Docs
+site_url: https://talos-labs-documents.github.io/TALOS-MoCap-VR-starter/
+repo_url: https://github.com/Talos-Labs-documents/TALOS-MoCap-VR-starter
+theme:
+  name: material
 
 nav:
   - Home: index.md
