@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it."
+title: "TALOS MoCap VR"
+authors:
+  - family-names: Lemon
+    given-names: Brandon
+  - name: TALOS Labs
+date-released: 2025-09-25
+license: MIT
+repository-code: https://github.com/TalosLabs/TALOS-MoCap-VR

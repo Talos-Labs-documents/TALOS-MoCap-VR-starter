@@ -1,0 +1,7 @@
+site_name: TALOS MoCap VR
+theme:
+  name: mkdocs
+nav:
+  - Home: index.md
+  - Architecture: specs/architecture.md
+  - Setup: specs/setup.md
