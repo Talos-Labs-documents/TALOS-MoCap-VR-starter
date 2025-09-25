@@ -1,3 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://talos-labs-documents.github.io/TALOS-MoCap-VR-starter/</loc>
+         <lastmod>2025-09-25</lastmod>
+    </url>
+    <url>
+         <loc>https://talos-labs-documents.github.io/TALOS-MoCap-VR-starter/hardware/</loc>
+         <lastmod>2025-09-25</lastmod>
+    </url>
+    <url>
+         <loc>https://talos-labs-documents.github.io/TALOS-MoCap-VR-starter/ml/</loc>
+         <lastmod>2025-09-25</lastmod>
+    </url>
+    <url>
+         <loc>https://talos-labs-documents.github.io/TALOS-MoCap-VR-starter/specs/architecture/</loc>
+         <lastmod>2025-09-25</lastmod>
+    </url>
+    <url>
+         <loc>https://talos-labs-documents.github.io/TALOS-MoCap-VR-starter/specs/setup/</loc>
+         <lastmod>2025-09-25</lastmod>
+    </url>
+    <url>
+         <loc>https://talos-labs-documents.github.io/TALOS-MoCap-VR-starter/vr/</loc>
+         <lastmod>2025-09-25</lastmod>
+    </url>
+    <url>
+         <loc>https://talos-labs-documents.github.io/TALOS-MoCap-VR-starter/vr-integration/</loc>
+         <lastmod>2025-09-25</lastmod>
+    </url>
 </urlset>
