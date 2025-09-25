@@ -1,7 +1,7 @@
-site_name: TALOS MoCap VR
-theme:
-  name: mkdocs
+site_name: TALOS MoCap VR Docs
+
 nav:
   - Home: index.md
-  - Architecture: specs/architecture.md
-  - Setup: specs/setup.md
+  - Hardware Setup: hardware/README.md
+  - ML Pipeline: ml/README.md
+  - VR Integration: vr/README.md
